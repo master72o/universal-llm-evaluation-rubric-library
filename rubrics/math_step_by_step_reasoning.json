@@ -1,0 +1,14 @@
+{
+  "id": "math_step_by_step_reasoning",
+  "name": "Mathematical & Step-by-Step Reasoning",
+  "description": "Checks mathematical logic, intermediate calculation steps, and final answer precision.",
+  "scale": {
+    "1": "Unacceptable / Total Failure",
+    "2": "Poor / Major Deficiencies",
+    "3": "Acceptable / Basic Compliance",
+    "4": "Good / High Quality with Minor Flaws",
+    "5": "Exceptional / Flawless Adherence"
+  },
+  "positive_example": "Model response providing clear, accurate, and structured output for Mathematical & Step-by-Step Reasoning.",
+  "negative_example": "Model response failing core requirements of Mathematical & Step-by-Step Reasoning."
+}

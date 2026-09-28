@@ -1,0 +1,14 @@
+{
+  "id": "structured_json_format_integrity",
+  "name": "Structured JSON / Format Integrity",
+  "description": "Validates strict JSON/YAML syntax, schema matching, and absence of markdown wrapper leakage.",
+  "scale": {
+    "1": "Unacceptable / Total Failure",
+    "2": "Poor / Major Deficiencies",
+    "3": "Acceptable / Basic Compliance",
+    "4": "Good / High Quality with Minor Flaws",
+    "5": "Exceptional / Flawless Adherence"
+  },
+  "positive_example": "Model response providing clear, accurate, and structured output for Structured JSON / Format Integrity.",
+  "negative_example": "Model response failing core requirements of Structured JSON / Format Integrity."
+}

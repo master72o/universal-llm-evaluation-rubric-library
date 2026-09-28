@@ -1,0 +1,14 @@
+{
+  "id": "rag_groundedness_context_relevance",
+  "name": "RAG Groundedness & Context Relevance",
+  "description": "Measures RAG Faithfulness, Answer Relevance, and Context Relevance.",
+  "scale": {
+    "1": "Unacceptable / Total Failure",
+    "2": "Poor / Major Deficiencies",
+    "3": "Acceptable / Basic Compliance",
+    "4": "Good / High Quality with Minor Flaws",
+    "5": "Exceptional / Flawless Adherence"
+  },
+  "positive_example": "Model response providing clear, accurate, and structured output for RAG Groundedness & Context Relevance.",
+  "negative_example": "Model response failing core requirements of RAG Groundedness & Context Relevance."
+}

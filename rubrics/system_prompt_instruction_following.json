@@ -1,0 +1,14 @@
+{
+  "id": "system_prompt_instruction_following",
+  "name": "System Prompt & Instruction Following",
+  "description": "Evaluates multi-constraint prompt adherence (word limits, formatting tags, negative constraints).",
+  "scale": {
+    "1": "Unacceptable / Total Failure",
+    "2": "Poor / Major Deficiencies",
+    "3": "Acceptable / Basic Compliance",
+    "4": "Good / High Quality with Minor Flaws",
+    "5": "Exceptional / Flawless Adherence"
+  },
+  "positive_example": "Model response providing clear, accurate, and structured output for System Prompt & Instruction Following.",
+  "negative_example": "Model response failing core requirements of System Prompt & Instruction Following."
+}

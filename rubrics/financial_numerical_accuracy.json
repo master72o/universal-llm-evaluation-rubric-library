@@ -1,0 +1,14 @@
+{
+  "id": "financial_numerical_accuracy",
+  "name": "Financial & Numerical Accuracy",
+  "description": "Audits financial metrics, currency calculations, ratio analyses, and tabular precision.",
+  "scale": {
+    "1": "Unacceptable / Total Failure",
+    "2": "Poor / Major Deficiencies",
+    "3": "Acceptable / Basic Compliance",
+    "4": "Good / High Quality with Minor Flaws",
+    "5": "Exceptional / Flawless Adherence"
+  },
+  "positive_example": "Model response providing clear, accurate, and structured output for Financial & Numerical Accuracy.",
+  "negative_example": "Model response failing core requirements of Financial & Numerical Accuracy."
+}
